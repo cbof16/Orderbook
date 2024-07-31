@@ -24,11 +24,13 @@ This project implements a high-performance limit order book simulator written in
    ```sh
    git clone https://github.com/yourusername/limit-order-book.git
    cd limit-order-book
+   ```
 
 
  **Build the Project**
    ```sh
    mkdir build
    cd build
-   cmake ..
+   cmake 
    make
+   ```
